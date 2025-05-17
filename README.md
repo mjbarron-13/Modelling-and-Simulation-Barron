@@ -125,9 +125,9 @@ If Y = ln(X) is normally distributed with μ = 2 and σ = 0.5, what is the proba
 
 **Steps:**  
 1. Z = (2.3026 - 2) / 0.5 = 0.6052  
-2. P(Z < 0.6052) ≈ 0.727
+2. P(Z < 0.6052) ≈ 0.7291
 
-**Answer:** 72.7%
+**Answer:** 72.91%
 
 ---
 
